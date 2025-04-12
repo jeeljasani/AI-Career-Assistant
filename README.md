@@ -1,1 +1,1 @@
-# AI-Career-Assistant
+# AIcareerAssistant
