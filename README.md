@@ -71,5 +71,3 @@
 - 🎙️ Voice-based answer input for interviews  
 - 📈 Analytics dashboard for tracking user progress over time  
 - ☁️ Cloud function integrations for scalable backend processing
-
----
